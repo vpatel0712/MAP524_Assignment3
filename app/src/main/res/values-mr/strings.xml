@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">क्विझ_असाइनमेंट</string>
+    <string name="action_getAverage">सरासरी मिळवा</string>
+    <string name="action_select_question">प्रश्न संख्या निवडा</string>
+    <string name="action_reset_result">जतन केलेला निकाल रीसेट करा</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">पुढे</string>
+    <string name="txt_true">खरे</string>
+    <string name="txt_false">खोटे</string>
+    <string name="question1">टिम हॉर्टन्स हा यूएसएचा ब्रँड आहे</string>
+    <string name="question2">जॉर्ज वॉशिंग्टन हे अमेरिकेचे पहिले राष्ट्राध्यक्ष आहेत</string>
+    <string name="question3">BMW ही जर्मनीची कंपनी आहे</string>
+    <string name="question4">टोकियो हे पृथ्वीवरील सर्वाधिक लोकसंख्येचे शहर आहे</string>
+    <string name="question5">कतार 2022 फिफा जर्मनीने जिंकला होता</string>
+    <string name="question6">ओटावा हे अमेरिकेची राजधानी आहे</string>
+    <string name="question7">CN टॉवर टोरोंटो मध्ये आहे</string>
+    <string name="question8">बुर्ज खलिफा ही जगातील सर्वात उंच इमारत आहे</string>
+
+    <string name="message_average">तुमची अचूक उत्तरे / एकूण प्रश्नांची संख्या= </string>
+    <string name="english">इंग्रजी</string>
+    <string name="marathi">मराठी</string>
+    <string name="invalidNumber">"अवैध इनपुट. कृपया वैध क्रमांक प्रविष्ट करा.</string>
+    <string name="result">परिणाम</string>
+    <string name="your_result">तुमचा निकाल आहे:</string>
+    <string name="out_of">बाहेर</string>
+    <string name="save">जतन करा</string>
+    <string name="ignore">दुर्लक्ष करा</string>
+    <string name="enter_question">8 पेक्षा कमी प्रश्न प्रविष्ट करा</string>
+
+    <string name="previous">मागील</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_question">Toronto is the Capital city of Ontario.</string>
+    <string name="add_question">पेक्षा कमी प्रश्नांची संख्या प्रविष्ट करा</string>
+    <string name="action_select_language">भाषा निवडा</string>
+</resources>
+
+

@@ -1,0 +1,36 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- English TextView -->
+    <TextView
+        android:id="@+id/tvEnglish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/english"
+        android:textColor="@android:color/black"
+        android:background="@drawable/language_selector"
+        android:padding="8dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="onLanguageSelected"
+        android:tag="en"/>
+
+    <!-- Marathi TextView -->
+    <TextView
+        android:id="@+id/tvMarathi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/marathi"
+        android:textColor="@android:color/black"
+        android:background="@drawable/language_selector"
+        android:padding="8dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="onLanguageSelected"
+        android:tag="Mr"/>
+
+</LinearLayout>
